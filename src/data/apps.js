@@ -24,7 +24,7 @@ const apps = [
     platforms: ["ios"],
     color: "from-indigo-500 to-purple-600",
     links: {
-      appStore: "#https://apps.apple.com/am/app/mindora-build-your-vocab/id6758560477",
+      appStore: "https://apps.apple.com/am/app/mindora-build-your-vocab/id6758560477",
       // playStore: "#",
       // web: "#",
     },
